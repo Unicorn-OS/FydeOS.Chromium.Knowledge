@@ -1,4 +1,6 @@
 # FydeOS.Knowledge
 
-Home:
+# Home:
+website:
 - https://fydeos.io/
+- https://openfyde.io/
